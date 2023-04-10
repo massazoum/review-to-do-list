@@ -8,7 +8,6 @@
   <h3><b> To-Do-list-project</b></h3>
 
 </div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
